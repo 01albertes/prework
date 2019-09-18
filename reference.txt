@@ -1,0 +1,8 @@
+
+## Markdown
+
+Markdown is a markup language and a simple way to add formatting to web texts.
+With format we refer to italics, bold, lists, and so on. Markdown was originally
+created by John Gruber, with the help of Aaron Swartz, with the purpose of creating
+a plain text that is easy to write and easy to read, and that could be converted 
+simply and validly to XHTML
